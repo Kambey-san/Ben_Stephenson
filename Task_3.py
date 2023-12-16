@@ -8,5 +8,5 @@
 lenght = float(input('Длина комнаты в метрах (в формате *.*): '))
 wight = float(input('Ширина комнаты в метрах (в формате *.*): '))
 square = lenght * wight
-print(f'Площадь комнаты = {round(square, 2)} m')
+print(f'Площадь комнаты = {round(square, 2)} m2')
 
